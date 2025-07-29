@@ -33,25 +33,24 @@ I'm a performance-driven developer who builds **scalable web applications** with
 
 | Project | Live Demo | Tech Stack | Highlights |
 |---------|-----------|------------|------------|
-| **[Tesla Car Customizer](https://github.com/yourusername/tesla-customizer)** | [Live Demo](link) | React, Vite, Tailwind | • Real-time pricing<br>• 3D model interactions<br>• Mobile-first design |
-| **[ReadNation Bookstore](https://github.com/yourusername/readnation)** | [Live Demo](link) | MERN, Redux Toolkit | • AI recommendations<br>• Admin dashboard<br>• Payment integration |
-| **[NormalHuman AI Email](https://github.com/yourusername/normalhuman)** | [Live Demo](link) | Next.js 14, TypeScript | • OpenAI integration<br>• Pinecone vector DB<br>• Clerk auth |
+| **[Tesla Car Customizer](https://github.com/sideguy/tesla-customizer)** | [Live Demo](link) | React, Vite, Tailwind | • Real-time pricing<br>• 3D model interactions<br>• Mobile-first design |
+| **[ReadNation Bookstore](https://github.com/sideguy/readnation)** | [Live Demo](link) | MERN, Redux Toolkit | • AI recommendations<br>• Admin dashboard<br>• Payment integration |
+| **[NormalHuman AI Email](https://github.com/sideguy/normalhuman)** | [Live Demo](link) | Next.js 14, TypeScript | • OpenAI integration<br>• Pinecone vector DB<br>• Clerk auth |
 
 ---
 
-## 📈 **GitHub Stats**  
+## 📈 **Languages Used**  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sideguy&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ## 📫 **Let's Collaborate!**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sohailkhan2001/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://portfolio-sohail-khan.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:sohailkhan35997@gmail.com)  
 
 ---
